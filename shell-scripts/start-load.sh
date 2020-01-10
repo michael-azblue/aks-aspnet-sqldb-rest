@@ -1,6 +1,6 @@
 #! /bin/bash
-svcIpAddress=$2
-dataDir=$3
+svcIpAddress=40.65.233.158
+dataDir=./start-load.sh
 counter=1
 
 echo "***** Starting Functional Test *****"
